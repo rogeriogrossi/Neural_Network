@@ -1,6 +1,6 @@
 # Neural Networks with tensorflow and pytorch
 
-Exploring Neural Networks applications as:
+Exploring Neural Networks applications such as:
 - Classification
 - Regression
 - Autoencoders
